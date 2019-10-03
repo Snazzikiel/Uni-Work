@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\homeMenuScriptMechanic.cs">
+    <Files>
+      <File FileName="Assets\scripts\loginActivity.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\homeMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\homeMenuScriptMechanic.cs" Line="20" Column="39" />
+      <File FileName="Assets\scripts\serviceHistoryCustomerMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\serviceHistoryMechanicMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\requestServiceMenuScript.cs" Line="179" Column="40" />
+      <File FileName="Assets\scripts\activityManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\objects\Account.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
