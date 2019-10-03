@@ -1,0 +1,3 @@
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/cmake-build-debug/CMakeFiles/A2.dir
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

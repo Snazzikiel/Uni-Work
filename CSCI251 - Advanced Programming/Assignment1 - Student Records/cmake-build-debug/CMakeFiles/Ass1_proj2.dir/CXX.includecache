@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dazzi/OneDrive/UOW/CSCI251-2 - Advanced Programming/Ass1-proj2/ass1.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+iomanip
+-
+
+C:/Users/dazzi/OneDrive/UOW/CSCI251-2 - Advanced Programming/Ass1-proj2/ass1.h
+
+C:/Users/dazzi/OneDrive/UOW/CSCI251-2 - Advanced Programming/Ass1-proj2/main.cpp
+iostream
+-
+cctype
+-
+ass1.h
+C:/Users/dazzi/OneDrive/UOW/CSCI251-2 - Advanced Programming/Ass1-proj2/ass1.h
+

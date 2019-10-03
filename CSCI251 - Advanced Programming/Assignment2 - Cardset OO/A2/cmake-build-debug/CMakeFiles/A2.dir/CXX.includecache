@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/CardSet.cpp
+iostream
+-
+stdlib.h
+-
+CardSet.h
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/CardSet.h
+
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/CardSet.h
+
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/main.cpp
+iostream
+-
+CardSet.h
+C:/Users/Snazzikiel/OneDrive/UOW/CSCI251-2 - Advanced Programming/Assignment2/A2/CardSet.h
+
